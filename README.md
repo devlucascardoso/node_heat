@@ -17,7 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [Express](https://expressjs.com/pt-br/)
-- [Prisma](https://www.prisma.io/) && [@Prisma/client](https://)
+- [Prisma](https://www.prisma.io/) & [Prisma/client](https://www.prisma.io/client)
 - [JSON Web Token](https://jwt.io/)
 - [Socket.IO](https://socket.io/)
 
