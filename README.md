@@ -1,19 +1,3 @@
-yarn dev -> ts-node-dev -> Server is running on PORT 4000
-
-yarn prisma studio -> localhost:/????
-
-yarn add migrate dev -> executa o prisma para criar o BD
-
-Tecnologias usadas:
-
-$typescript
-$express
-$prisma && @prisma/client
-$axios
-$jsonwebtoken
-$cors
-$socket.io
-
 <h1 align="center">NLW Heat - Node.js</h1>
 
 <p align="center">
